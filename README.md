@@ -31,8 +31,7 @@ Apaixonado por sistemas, lógica, automação e desenvolvimento web.<br>
 - Cookies HTTP-only e controle de login persistente
 - CRUD com PostgreSQL
 - Versionamento com Git e GitHub
-- Estruturação de back-end moderno
-- Arquitetura MVC e organização de código
+- Estruturação de back-end
 
 ---
 
@@ -62,6 +61,7 @@ Apaixonado por sistemas, lógica, automação e desenvolvimento web.<br>
 - Estudando algoritmos, estruturas de dados e segurança web.
 - Planejando integração de IA local com CodeLlama para suporte ao desenvolvimento.
 - Aprofundando conhecimento em WebSockets e bancos relacionais.
+- Desvendando e Praticando conceitos de  I.O.T, microcontroladores e smartTech.
 
 ---
 
