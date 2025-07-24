@@ -51,7 +51,7 @@ Apaixonado por sistemas, lógica, automação e desenvolvimento web.<br>
 
 | Projeto | Descrição |
 |--------|-----------|
-| 🧭 **Sistema de Manutenção com i.a integrada machine learning. |
+| 🧭 **Sistema de Manutenção com i.a integrada machine learning. |Projeto de inovação desenvolvido no senai maracanau
 | 💬 **Chat com Identificação de Sessão** | Protótipo de chat vinculado a sessões com backend em Node.js e autenticação por token. |
 | 📈 **Dashboard Web de Monitoramento** | Sistema que exibe dados de uso, sessões ativas, e logs em tempo real, com foco em design minimalista. |
 
